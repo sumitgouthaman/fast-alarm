@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left bell -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M35.6,33.2 C33.1,30.7 33.1,26.7 35.6,24.2 C38.1,21.7 42.1,21.7 44.6,24.2 L35.6,33.2 Z" />
+    <!-- Right bell -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M72.4,33.2 L63.4,24.2 C65.9,21.7 69.9,21.7 72.4,24.2 C74.9,26.7 74.9,30.7 72.4,33.2 Z" />
+    <!-- Top button -->
+    <path
+        android:fillColor="#80DEEA"
+        android:pathData="M50,22 h8 v4 h-8 z" />
+    <!-- Left leg -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M36,78 L31,85 A2,2 0 0,0 34.5,87 L40,81 Z" />
+    <!-- Right leg -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M72,78 L68,81 L73.5,87 A2,2 0 0,0 77,85 Z" />
+    <!-- Main Clock Body Ring (Electric Cyan) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,28 A26,26 0 1,0 54,80 A26,26 0 1,0 54,28 M54,34 A20,20 0 1,1 54,74 A20,20 0 1,1 54,34" />
+    <!-- Interval sweep arc highlight -->
+    <path
+        android:fillColor="#FFAB00"
+        android:pathData="M54,54 L54,36 A18,18 0 0,1 72,54 Z" />
+    <!-- Clock Center Pivot & Hands -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,39 h4 v15 h-4 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,52 h14 v4 h-14 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>

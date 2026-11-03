@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fast Alarm</string>
+    <string name="quick_intervals">Quick Intervals</string>
+    <string name="active_alarms">Active Alarms</string>
+    <string name="no_active_alarms">No active alarms</string>
+    <string name="tap_to_set_tip">Tap any interval above or add a custom duration to arm an instant alarm.</string>
+    <string name="manage_presets">Edit Presets</string>
+    <string name="add_custom">Custom</string>
+    <string name="cancel_alarm">Cancel</string>
+    <string name="dismiss_alarm">Slide to Dismiss</string>
+    <string name="snooze_10m">Snooze (+10m)</string>
+    <string name="snooze_5m">Snooze (+5m)</string>
+    <string name="alarm_ringing_title">Alarm Ringing!</string>
+    <string name="exact_alarm_permission_needed">Exact alarm permission is needed to ring on schedule.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="notification_permission_needed">Notification permission is required to sound alarms reliably.</string>
+</resources>

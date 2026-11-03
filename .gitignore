@@ -1,0 +1,49 @@
+# Gradle and build outputs
+.gradle/
+build/
+app/build/
+.build-outputs/
+tmp/
+bin/
+gen/
+out/
+captures/
+.externalNativeBuild/
+.cxx/
+.kotlin/
+
+# Built binaries & packages
+*.apk
+*.aab
+*.aar
+*.ap_
+*.dex
+*.class
+
+# Secret files, keys, and credentials
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+debug.keystore
+debug.keystore.base64
+my-upload-key.jks
+local.properties
+/local.properties
+
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+
+# Logs and OS metadata
+*.log
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# Platform-specific internal files
+.aistudio/

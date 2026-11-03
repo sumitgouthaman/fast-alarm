@@ -1,0 +1,6 @@
+{
+  "name": "Fast Alarm",
+  "description": "One-tap interval alarm clock with customizable presets, active countdowns, and reliable full-volume ringtones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,11 +1,14 @@
-<div align="center">
+# Fast Alarm
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+> **Note**: This application was fully generated using Gemini and Google AI Studio.
 
-  <h1>Built with AI Studio</h2>
+Fast Alarm is an Android application designed for situations where you need to quickly set successive alarms after a duration—such as for new parents managing feeding cycles, nap windows, or medication schedules.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+Instead of selecting a specific clock time, you tap a preset interval (e.g., +30m, +1h, +2h) or enter a custom duration to schedule an alarm relative to the current time.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Features
 
-</div>
+- **One-Tap Presets**: Instantly set alarms for common intervals or customize your own preset buttons.
+- **Zero System Clock Clutter**: Manages alarms inside the app so one-off interval alarms do not clutter your device's system clock.
+- **Slide to Dismiss**: Uses a slide-to-dismiss gesture on the full-screen ringing screen to prevent accidental dismissals.
+- **Active Countdown & Notification**: Displays live remaining countdowns on the main screen and maintains an ongoing status notification while alarms are active.
